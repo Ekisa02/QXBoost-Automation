@@ -29,7 +29,7 @@
 
 📖 Overview
 ------------
-QXBoost is a fully automated, no-code loyalty layer built for the Qubic Exchange (QX). It incentivizes long-term investing by identifying "Whales" (large investors) in real-time, tracking their holding duration, and automatically distributing rewards (digital assets/NFTs) to wallets that hold through the retention window.
+QXBoost is a fully automated, no-code loyalty layer built for the Qubic Exchange (QX). It incentivizes long-term investing by identifying "Whales" (large investors) in real-time, tracking their ho[...]
 
 By combining the Qubic API with Google Gemini AI and powerful visual automation on Make.com, QXBoost turns passive holding into an active, gamified community event — the "Diamond Hands" engine.
 
@@ -60,10 +60,12 @@ Buy > 10,000 CFB? → Start tracking → Hold > 30 days? → Send reward
 
 ## Demo
 <!-- HTML5 video: browsers may block autoplay unless muted. We set `muted` so autoplay works in most browsers. -->
+
+<!-- Updated video source to point to the raw file on GitHub so the video can play from the README. Keep `muted` so browsers allow autoplay. -->
 <video controls autoplay muted loop playsinline width="720">
-  <source src="Demo.mp4" type="video/mp4">
-  <!-- If the browser doesn't support the video tag, provide a link -->
-  Your browser does not support the video tag. Watch the demo on YouTube: https://youtu.be/YOUR_VIDEO_ID
+  <source src="https://raw.githubusercontent.com/Ekisa02/QXBoost-Automation/main/Demo.mp4" type="video/mp4">
+  <!-- Fallback: direct link to the raw video file in case the video element is blocked -->
+  Your browser does not support the video tag. Watch the demo directly: https://raw.githubusercontent.com/Ekisa02/QXBoost-Automation/main/Demo.mp4
 </video>
 
 
