@@ -58,6 +58,16 @@ Buy > 10,000 CFB? → Start tracking → Hold > 30 days? → Send reward
 
 ---
 
+## Demo
+<!-- HTML5 video: browsers may block autoplay unless muted. We set `muted` so autoplay works in most browsers. -->
+<video controls autoplay muted loop playsinline width="720">
+  <source src="/Demo.mp4" type="video/mp4">
+  <!-- If the browser doesn't support the video tag, provide a link -->
+  Your browser does not support the video tag. Watch the demo on YouTube: https://youtu.be/YOUR_VIDEO_ID
+</video>
+
+
+
 ⚙️ How It Works (Architecture)
 -------------------------------
 The system follows a "Listen → Filter → Verify → Reward" flow orchestrated with Make.com and small, transparent automations.
