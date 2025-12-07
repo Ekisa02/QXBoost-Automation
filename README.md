@@ -1,12 +1,11 @@
 # QXBoost — Automated Loyalty & Retention Protocol
 "The 'Diamond Hands' Engine for the Qubic Exchange"
-```markdown
+
 <!-- Sponsor button -->
 [![Sponsor QXBoost](https://img.shields.io/badge/Sponsor-QXBoost-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/Ekisa02)
 
 <!-- Optional alternative GitHub Sponsors badge -->
 [![Sponsor on GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub_sponsors-181717?style=for-the-badge&logo=github)](https://github.com/sponsors/Ekisa02)
-```
 
 [![QXBoost](https://img.shields.io/badge/QXBoost-v1.0.0-purple?style=for-the-badge)](https://github.com/Ekisa02/QXBoost-Automation)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](#license)
