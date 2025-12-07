@@ -169,6 +169,7 @@ Security & Best Practices
 🙏 Acknowledgments
 ------------------
 Huge thanks to:
+- EasyConnect - for iniatial setup and start of automations.
 - Qubic.org — for the ultra-fast network and open API documentation.
 - Make.com — for their powerful visual automation platform.
 - Google AI Studio — for Gemini models that power the messaging and reports.
